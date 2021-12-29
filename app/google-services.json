@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552004850012",
+    "project_id": "fitebasetest-51cfb",
+    "storage_bucket": "fitebasetest-51cfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552004850012:android:0743e6d487238bebf4b199",
+        "android_client_info": {
+          "package_name": "com.example.secondprogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552004850012-221usd7t0kbrc1o4d1knmrra2akisnbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrH8obtK1HGByp2CkWyQhgmvPZ63OSL88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552004850012-221usd7t0kbrc1o4d1knmrra2akisnbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

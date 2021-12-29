@@ -8,13 +8,6 @@
     android:visibility="visible"
     tools:context=".MainActivity">
 
-    <Button
-        android:id="@+id/buttonGoToSec"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:onClick="funcGotToSec"
-        android:text="GO TO SEC" />
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -23,13 +16,20 @@
 
         <TextView
             android:id="@+id/textFurmola"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:layout_weight="1"
+            android:layout_weight="0.7"
             android:gravity="center"
             android:textSize="34sp" />
     </LinearLayout>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="funcPushResult"
+        android:text="Button" />
 
     <LinearLayout
         android:layout_width="match_parent"
